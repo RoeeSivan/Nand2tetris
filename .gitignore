@@ -1,0 +1,6 @@
+*.class
+*.out
+*.cmp
+__pycache__/
+.DS_Store
+lang.txt
